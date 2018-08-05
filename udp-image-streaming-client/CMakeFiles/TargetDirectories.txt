@@ -1,0 +1,3 @@
+/home/vishnu/Documents/udp-image-streaming-client/CMakeFiles/rebuild_cache.dir
+/home/vishnu/Documents/udp-image-streaming-client/CMakeFiles/edit_cache.dir
+/home/vishnu/Documents/udp-image-streaming-client/CMakeFiles/client.dir
